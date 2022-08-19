@@ -17,3 +17,5 @@
   
   - name: Registering the system with Red Hat Insights
     ansible.builtin.command: insights-client --register
+
+##
