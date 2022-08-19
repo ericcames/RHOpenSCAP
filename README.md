@@ -7,3 +7,7 @@
 2. Click on Red Hat Enterprise Linux
     
     ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/RHEL.png "Logo Title Text 1")
+    
+3. Click on Red Hat Insights
+
+    ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/Red%20Hat%20Insights.png "Logo Title Text 1")
