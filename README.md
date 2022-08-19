@@ -1,4 +1,4 @@
-### Red Hat Open Security Content Automation (SCAP)
+### Red Hat Open Security Content Automation Protocol (SCAP)
 
 1. Login in to:
 
