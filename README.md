@@ -23,3 +23,7 @@
 6. Pick your Operating System and add a filter to find your policy
 
     ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/PickOS.png "Logo Title Text 1")
+
+7. Pick your Policy name -> Click next
+
+    ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/Pickyourpolicy.png "Logo Title Text 1")
