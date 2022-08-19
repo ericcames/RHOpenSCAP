@@ -1,1 +1,19 @@
 ---
+- name: Getting ready to install the SCAP packages
+  hosts: all
+  become: yes
+  gather_facts: no
+  
+  tasks:
+  
+  - name: Making sure the packages we are need are installed.
+    ansible.builtin.yum:
+      name: 
+        - scap-security-guide
+        - openscap-scanner
+        - openscap
+        - insights-client
+      state: present
+  
+  - name: Registering the system with Red Hat Insights
+    ansible.builtin.command: insights-client --register
