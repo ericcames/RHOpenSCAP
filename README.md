@@ -15,3 +15,7 @@
 4. Click on Compliance
 
     ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/Compliance.png "Logo Title Text 1")
+    
+5. Click on SCAP Policies -> Create new policy
+
+    ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/CreateSCAP.png "Logo Title Text 1")
