@@ -31,3 +31,7 @@
 8. Make any updates -> Click next
 
     ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/adjustments.png "Logo Title Text 1")
+
+9. Select your systems
+
+    ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/addyoursystems.png "Logo Title Text 1")
