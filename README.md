@@ -19,3 +19,7 @@
 5. Click on SCAP Policies -> Create new policy
 
     ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/CreateSCAP.png "Logo Title Text 1")
+
+6. Pick your Operating System and add a filter to find your policy
+
+    ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/PickOS.png "Logo Title Text 1")
