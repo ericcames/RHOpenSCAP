@@ -11,3 +11,7 @@
 3. Click on Red Hat Insights
 
     ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/Red%20Hat%20Insights.png "Logo Title Text 1")
+    
+4. Click on Compliance
+
+    ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/Compliance.png "Logo Title Text 1")
