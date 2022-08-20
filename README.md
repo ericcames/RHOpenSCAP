@@ -1,5 +1,9 @@
-### Red Hat Open Security Content Automation Protocol (SCAP)
+# Red Hat Open Security Content Automation Protocol (SCAP)
 
+### Prepare your machines for SCAP policy
+[SCAP install ansible playbook](https://github.com/ericcames/RHOpenSCAP/blob/main/scapinstall.yml "SCAP Install Playbook")
+
+### Setup Red Hat Insights Compliance SCAP policy
 1. Login in to:
 
     [Red Hat Insights](https://console.redhat.com "Red Hat Hybrid Cloud Console")
