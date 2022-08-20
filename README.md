@@ -43,3 +43,8 @@
 10. Select the rules that you want to apply -> Click next
 
     ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/Rulereview.png "Logo Title Text 1")
+    
+11. Finish!!
+
+    ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/Finish.png "Logo Title Text 1")
+    
