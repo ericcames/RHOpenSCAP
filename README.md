@@ -51,4 +51,7 @@
 ### Remediate your machines using Insights and Ansible
 [Example of Insights created ansible playbook](https://github.com/ericcames/RHOpenSCAP/blob/main/example-rhel7cisremediation.yml "SCAP Install Playbook")
 
+Click on systems and the system you would like to look at.  Some of the remediations will have manual steps to be followed for remediation and some will have ansible playbooks that can be generated.
+    ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/Remediations.png "Logo Title Text 1")
+
 
