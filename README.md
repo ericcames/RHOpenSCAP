@@ -36,6 +36,10 @@
 
     ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/adjustments.png "Logo Title Text 1")
 
-9. Select your systems
+9. Select your systems -> Click next
 
     ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/addyoursystems.png "Logo Title Text 1")
+
+10. Select the rules that you want to apply -> Click next
+
+    ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/Rulereview.png "Logo Title Text 1")
