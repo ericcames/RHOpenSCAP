@@ -53,5 +53,9 @@
 
 Click on systems and the system you would like to look at.  Some of the remediations will have manual steps to be followed for remediation and some will have ansible playbooks that can be generated.
     ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/Remediations.png "Logo Title Text 1")
+    
+Integrate your Ansible Automation Platform with Red Hat Insights.  This will give you access to the remediation playbooks you create.  After you create your playbooks; sync your insights project and you will be able to create templates using the Insights generated playbooks.
+    ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/insightsandansible.png "Logo Title Text 1")
+
 
 
