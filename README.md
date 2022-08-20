@@ -48,3 +48,7 @@
 
     ![alt text](https://github.com/ericcames/RHOpenSCAP/blob/main/images/Finish.png "Logo Title Text 1")
     
+### Remediate your machines using Insights and Ansible
+[Example of Insights created ansible playbook](https://github.com/ericcames/RHOpenSCAP/blob/main/example-rhel7cisremediation.yml "SCAP Install Playbook")
+
+
