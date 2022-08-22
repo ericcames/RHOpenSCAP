@@ -5,6 +5,10 @@
 
 [OpenSCAP Website](https://www.open-scap.org "OpenSCAP Website")
 
+[Getting started with Red Hat Insights and OpenSCAP](https://www.redhat.com/en/blog/getting-started-red-hat-insights-and-openscap-compliance-reporting "Getting started with Red Hat Insights and OpenSCAP")
+
+[Red Hat Compliance service and the Red Hat Insights API](https://www.redhat.com/en/blog/red-hat-compliance-service-and-red-hat-insights-api "Red Hat Compliance service and the Red Hat Insights API")
+
 ### Prepare your machines for SCAP policy
 [SCAP install ansible playbook](https://github.com/ericcames/RHOpenSCAP/blob/main/scapinstall.yml "SCAP Install Playbook")
 
