@@ -1,5 +1,10 @@
 # Red Hat Open Security Content Automation Protocol (SCAP)
 
+### Security Content Automation Protocol (SCAP) links
+[NIST SCAP Overview](https://csrc.nist.gov/projects/security-content-automation-protocol "NIST SCAP Overview")
+
+[OpenSCAP Website](https://www.open-scap.org "OpenSCAP Website")
+
 ### Prepare your machines for SCAP policy
 [SCAP install ansible playbook](https://github.com/ericcames/RHOpenSCAP/blob/main/scapinstall.yml "SCAP Install Playbook")
 
