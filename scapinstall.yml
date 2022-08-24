@@ -15,5 +15,6 @@
         - insights-client
       state: present
   
-  - name: Registering the system with Red Hat Insights
-    ansible.builtin.command: insights-client --register
+  - name: Register the insights client
+    redhat.insights.insights_register:
+      state: present
